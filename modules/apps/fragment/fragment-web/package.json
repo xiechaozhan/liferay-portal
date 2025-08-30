@@ -2,7 +2,7 @@
 	"dependencies": {
 		"@clayui/icon": "3.0.5",
 		"@clayui/tabs": "3.2.3",
-		"codemirror": "^5.52.0",
+		"codemirror": "^6.0.0",
 		"frontend-js-web": "*",
 		"metal": "2.16.8",
 		"metal-component": "2.16.8",
